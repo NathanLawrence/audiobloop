@@ -1,0 +1,28 @@
+{
+  "name": "audiobloop",
+  "version": "0.1.0",
+  "description": "audiobloop",
+  "engines": {
+    "node": ">=4"
+  },
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "Nathan Lawrence",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanlawrence/audiobloop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nathanlawrence/audiobloop/issues"
+  },
+  "homepage": "https://github.com/nathanlawrence/audiobloop#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.6.0"
+  }
+}
